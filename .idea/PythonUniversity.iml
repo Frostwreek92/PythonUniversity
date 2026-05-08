@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/003 - Variables en Python/Ejercicios/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/012 - Programacion Orientada a Objetos en Python/POO/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/013 - Temas Avanzados en Python/TemasAvanzados/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/014 - Manejo de Archivos en Python/ManejoArchivos/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="Python 3.14 (PythonUniversity)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
